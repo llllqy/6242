@@ -1,0 +1,586 @@
+source,target,value
+Petersburg Nuclear Physics Institute,Goethe University Frankfurt,9.953152108935916
+Petersburg Nuclear Physics Institute,Tohoku University,4.196475380299598
+Petersburg Nuclear Physics Institute,University of Hamburg,3.863943213187811
+Petersburg Nuclear Physics Institute,Dresden University of Technology,3.8447754916055805
+Petersburg Nuclear Physics Institute,Osaka University,3.797753775495309
+University of Florida,University of Wisconsin-Madison,87.64177811610512
+University of Florida,Columbia University,82.53373350308391
+University of Florida,Tsinghua University,77.42471485695961
+University of Florida,Rutgers University,72.37461469121965
+University of Florida,University of Southern California,70.6531123270753
+University of Melbourne,University of Cambridge,14.264168008962917
+University of Melbourne,University of Massachusetts Amherst,11.85605111784275
+University of Melbourne,University of Southern California,11.446531437534984
+University of Melbourne,Ohio State University,11.420897757658757
+University of Melbourne,Cornell University,11.38988606866858
+University of Stuttgart,University of Michigan,56.78865847005225
+University of Stuttgart,University of Southern California,49.39317986612382
+University of Stuttgart,University of Cambridge,48.86411721916102
+University of Stuttgart,Indiana University,48.13879225299995
+University of Stuttgart,University of Queensland,47.000592592466646
+University of Tennessee,Columbia University,74.19109910939845
+University of Tennessee,University of Southern California,71.03773151761952
+University of Tennessee,University of Michigan,69.43232588332887
+University of Tennessee,Tsinghua University,58.20891509571577
+University of Tennessee,Stanford University,57.7382836782888
+University of New South Wales,Duke University,80.04628577807651
+University of New South Wales,Cornell University,78.40740235395374
+University of New South Wales,University of Alberta,70.64918465667175
+University of New South Wales,University of Toronto,70.10243477491404
+University of New South Wales,Tsinghua University,69.57497598693291
+Karlsruhe Institute of Technology,University of Texas at Austin,57.73714896174261
+Karlsruhe Institute of Technology,University of Arizona,54.20437689261482
+Karlsruhe Institute of Technology,New York University,48.90022794541259
+Karlsruhe Institute of Technology,University of Minnesota,48.220205850545305
+Karlsruhe Institute of Technology,University of Chicago,47.21090634616087
+University of Texas at Austin,New York University,111.60100226366876
+University of Texas at Austin,Iowa State University,103.91519373553079
+University of Texas at Austin,University of Alberta,94.28402825580447
+University of Texas at Austin,Carnegie Mellon University,89.6121672120731
+University of Texas at Austin,University of Massachusetts Amherst,85.33529846627896
+University of Nottingham,University of Wisconsin-Madison,38.453047528660356
+University of Nottingham,University of Pennsylvania,30.560882202514076
+University of Nottingham,University of Florida,30.199540410942284
+University of Nottingham,University of British Columbia,25.11624949422518
+University of Nottingham,Kyushu University,24.5702947753687
+University of Tübingen,Kyoto University,43.65288132639674
+University of Tübingen,Tohoku University,38.021093228158335
+University of Tübingen,McGill University,37.224866328685955
+University of Tübingen,Utrecht University,33.30456762085275
+University of Tübingen,University of Oxford,33.237525544650204
+Martin Luther University of Halle-Wittenberg,Boston University,28.475432199604814
+Martin Luther University of Halle-Wittenberg,Sapienza University of Rome,20.804450537593418
+Martin Luther University of Halle-Wittenberg,University of Sydney,15.350796926513432
+Martin Luther University of Halle-Wittenberg,University of California,15.295606516825442
+Martin Luther University of Halle-Wittenberg,University of Florence,15.148696732284698
+University of Freiburg,University of Zurich,23.08392660477212
+University of Freiburg,Karlsruhe Institute of Technology,21.621601926131877
+University of Freiburg,Kyoto University,21.24764721258547
+University of Freiburg,University of Pennsylvania,19.75757908828472
+University of Freiburg,University of Arizona,19.518911345702417
+University of Oxford,University of Michigan,63.39759689226475
+University of Oxford,University of Southern California,51.048782557656715
+University of Oxford,University of Alberta,50.94569825323482
+University of Oxford,University of California,50.064142912120055
+University of Oxford,Harvard University,49.91831155267515
+University of Florence,University of California,62.46584509395551
+University of Florence,Sapienza University of Rome,40.60202222917488
+University of Florence,University of Bologna,37.84184515471753
+University of Florence,University of Manchester,36.53756169914379
+University of Florence,University of Sydney,36.101922129643896
+Ludwig Maximilian University of Munich,New York University,60.314869634183026
+Ludwig Maximilian University of Munich,Carnegie Mellon University,59.60299343336704
+Ludwig Maximilian University of Munich,University of Texas at Austin,58.67073976368734
+Ludwig Maximilian University of Munich,University of Alberta,56.39818196036654
+Ludwig Maximilian University of Munich,Harvard University,53.755919047199846
+Ruhr University Bochum,Carnegie Mellon University,14.562109142982965
+Ruhr University Bochum,University of Washington,14.00256018633282
+Ruhr University Bochum,University of Massachusetts Amherst,13.836884011570824
+Ruhr University Bochum,University of Cambridge,13.43633370863949
+Ruhr University Bochum,Georgia Institute of Technology,13.241504577457171
+National University of Singapore,Tsinghua University,161.14844872640865
+National University of Singapore,University of Southern California,156.7329520629909
+National University of Singapore,University of Illinois at Urbana–Champaign,136.67929153036636
+National University of Singapore,University of Michigan,103.64343196966259
+National University of Singapore,University of Queensland,101.30214747101908
+Johns Hopkins University,Tsinghua University,87.042260058545
+Johns Hopkins University,Iowa State University,81.73473815454061
+Johns Hopkins University,Columbia University,80.55663040854097
+Johns Hopkins University,Duke University,79.77779141002459
+Johns Hopkins University,University of North Carolina at Chapel Hill,76.73703550916098
+National Autonomous University of Mexico,Utrecht University,23.560224940534393
+National Autonomous University of Mexico,University of Florida,22.911431182954342
+National Autonomous University of Mexico,University of Tübingen,22.47749955751926
+National Autonomous University of Mexico,Harvard University,22.088674648216553
+National Autonomous University of Mexico,McGill University,21.617299964969696
+University of Cambridge,Harvard University,63.78341039829333
+University of Cambridge,Yale University,58.07477793509685
+University of Cambridge,University of Southern California,57.65107869065432
+University of Cambridge,University of Massachusetts Amherst,54.22359667381125
+University of Cambridge,University of Michigan,54.05633249287394
+Osaka University,Tohoku University,55.96440816063336
+Osaka University,Iowa State University,53.33401415328769
+Osaka University,Northwestern University,51.81479087124857
+Osaka University,Johns Hopkins University,49.93341752526588
+Osaka University,University of North Carolina at Chapel Hill,46.46902507336203
+Rutgers University,University of Florida,72.37461469121965
+Rutgers University,Indiana University,71.45366803927342
+Rutgers University,University of Southern California,64.53065106891302
+Rutgers University,Tsinghua University,62.530795110507945
+Rutgers University,University of Illinois at Urbana–Champaign,62.04732106786691
+University of Southampton,North Carolina State University,84.9734410847217
+University of Southampton,University of Michigan,63.09648343031213
+University of Southampton,Tsinghua University,61.96814832430183
+University of Southampton,University of Rochester,59.19385231164561
+University of Southampton,Iowa State University,58.270070292757225
+Kyushu University,University of Florida,41.76722207931168
+Kyushu University,University of Wisconsin-Madison,35.23058839250817
+Kyushu University,Rutgers University,29.956666671293736
+Kyushu University,Indiana University,28.53948145334401
+Kyushu University,University of Pennsylvania,28.46175997953233
+Cornell University,University of New South Wales,78.40740235395374
+Cornell University,University of Toronto,75.32169583844119
+Cornell University,University of Southern California,75.17514172492682
+Cornell University,Duke University,70.06533642289206
+Cornell University,University of Michigan,61.438655289441726
+University of California,Indiana University,80.99075353165841
+University of California,University of Michigan,72.6351724996148
+University of California,University of Manchester,68.99782019359284
+University of California,University of Southern California,68.79245713800549
+University of California,Tsinghua University,66.52267040734228
+University of Milan,Tel Aviv University,40.684323742405965
+University of Milan,Indiana University,39.00545244249378
+University of Milan,University of Southern California,37.79478202066338
+University of Milan,University of Michigan,37.18242062775239
+University of Milan,University of California,35.87465397586963
+Iowa State University,Tsinghua University,229.16199155829364
+Iowa State University,University of North Carolina at Chapel Hill,201.38012561663774
+Iowa State University,University of Alberta,132.89663661492474
+Iowa State University,New York University,124.18820593086085
+Iowa State University,National Institutes of Health,110.51660109616824
+University of Mainz,Tohoku University,28.101083980491563
+University of Mainz,Heidelberg University,23.75072457367301
+University of Mainz,Kyoto University,22.456599233858707
+University of Mainz,Karlsruhe Institute of Technology,21.14216566686534
+University of Mainz,University of Arizona,19.647860858670114
+Purdue University,University of Illinois at Chicago,51.19921605969584
+Purdue University,University of Michigan,47.983511500563175
+Purdue University,University of Southern California,45.08380272636715
+Purdue University,Tsinghua University,44.89320788173946
+Purdue University,University of Illinois at Urbana–Champaign,42.808300311461686
+French Institute of Health and Medical Research,University of Florida,13.483348659934643
+French Institute of Health and Medical Research,University of Wisconsin-Madison,13.065925022846717
+French Institute of Health and Medical Research,Georgia Institute of Technology,12.978692745847574
+French Institute of Health and Medical Research,University of Kentucky,12.525254155399862
+French Institute of Health and Medical Research,Carnegie Mellon University,12.45039240141303
+Complutense University of Madrid,Heidelberg University,31.342184858023018
+Complutense University of Madrid,Michigan State University,30.024213897011276
+Complutense University of Madrid,University of Arizona,29.978078163307387
+Complutense University of Madrid,Karlsruhe Institute of Technology,25.998939874362353
+Complutense University of Madrid,Kyoto University,25.507564763066043
+McGill University,Northwestern University,69.19314092506303
+McGill University,University of North Carolina at Chapel Hill,49.5665854733453
+McGill University,University of Texas at Austin,48.168430485273404
+McGill University,University of Wisconsin-Madison,47.76884455077168
+McGill University,Iowa State University,46.76026143576025
+University of Wisconsin-Madison,University of Pennsylvania,115.2277933414596
+University of Wisconsin-Madison,University of Florida,87.64177811610512
+University of Wisconsin-Madison,University of British Columbia,70.796456339956
+University of Wisconsin-Madison,University of Kentucky,68.33478608814909
+University of Wisconsin-Madison,University of North Carolina at Chapel Hill,67.65376538257034
+Sapienza University of Rome,University of California,47.288567949011245
+Sapienza University of Rome,University of Florence,40.60202222917488
+Sapienza University of Rome,Boston University,39.454092864132065
+Sapienza University of Rome,Princeton University,34.67787839620828
+Sapienza University of Rome,University of Sydney,33.9648743663857
+Vienna University of Technology,University of Hamburg,32.85676353665681
+Vienna University of Technology,Kyoto University,32.13952998604206
+Vienna University of Technology,University of Pennsylvania,31.41286835318426
+Vienna University of Technology,University of Chicago,30.690197456988425
+Vienna University of Technology,Stanford University,28.128986765461462
+University of Erlangen-Nuremberg,Indiana University,35.59028370670479
+University of Erlangen-Nuremberg,University of Bologna,33.763522500535906
+University of Erlangen-Nuremberg,Harvard University,31.62474144847478
+University of Erlangen-Nuremberg,University of Michigan,31.579160687781183
+University of Erlangen-Nuremberg,University of California,31.435049279820298
+University of Manchester,University of Queensland,76.81197215653972
+University of Manchester,University of Illinois at Urbana–Champaign,72.86266017250655
+University of Manchester,National University of Singapore,72.21502471021407
+University of Manchester,University of Sydney,72.19277695689861
+University of Manchester,University of Southern California,72.06245321602337
+RWTH Aachen University,Karlsruhe Institute of Technology,40.49680149523949
+RWTH Aachen University,University of Texas at Austin,37.038085669914175
+RWTH Aachen University,New York University,36.0246537847552
+RWTH Aachen University,University of Minnesota,34.30447032248297
+RWTH Aachen University,Iowa State University,32.8977927919209
+University of North Carolina at Chapel Hill,Tsinghua University,223.84372395010877
+University of North Carolina at Chapel Hill,Iowa State University,201.38012561663774
+University of North Carolina at Chapel Hill,University of Southern California,151.90930373780398
+University of North Carolina at Chapel Hill,New York University,138.2067224500022
+University of North Carolina at Chapel Hill,University of Alberta,130.85590360363776
+University of Pisa,University of Michigan,28.11201633738042
+University of Pisa,Rutgers University,26.495221719115946
+University of Pisa,Indiana University,25.622665676253753
+University of Pisa,University of California,24.624941870068298
+University of Pisa,University of Illinois at Chicago,24.024903614037818
+Nagoya University,North Carolina State University,29.617290240125612
+Nagoya University,University of Stuttgart,28.623904533140234
+Nagoya University,University of Southampton,27.49808714236859
+Nagoya University,University of Michigan,27.476771091719357
+Nagoya University,Yale University,27.340786506892908
+University of Padua,University of Queensland,21.88662915654118
+University of Padua,Princeton University,18.51805108398523
+University of Padua,University of Alberta,18.082015526895226
+University of Padua,University of Tokyo,18.04880673828098
+University of Padua,University of California,17.65626944890439
+University of Southern California,Tsinghua University,229.85076192203945
+University of Southern California,University of Michigan,216.4503325734099
+University of Southern California,University of Illinois at Urbana–Champaign,167.2353452084364
+University of Southern California,National University of Singapore,156.7329520629909
+University of Southern California,University of North Carolina at Chapel Hill,151.90930373780398
+University of Rochester,University of Southampton,59.19385231164561
+University of Rochester,University of Michigan,56.12929720244724
+University of Rochester,University of Southern California,56.10795145952265
+University of Rochester,University of Sydney,54.1094574421375
+University of Rochester,University of Florida,53.42156675096896
+Vanderbilt University,Tsinghua University,85.26172183009344
+Vanderbilt University,University of Alberta,81.73695010478558
+Vanderbilt University,Ohio State University,79.23968055114247
+Vanderbilt University,Carnegie Mellon University,77.89094018668254
+Vanderbilt University,Iowa State University,75.93201994160553
+University of Göttingen,Harvard University,44.73066683576031
+University of Göttingen,University of Michigan,43.082259787060714
+University of Göttingen,Ohio State University,42.871931652043145
+University of Göttingen,Tsinghua University,41.78625692485287
+University of Göttingen,Case Western Reserve University,40.97965140901297
+Columbia University,University of Illinois at Urbana–Champaign,105.33402208623275
+Columbia University,University of Southern California,101.72222428193501
+Columbia University,Tsinghua University,99.69854027076556
+Columbia University,University of Michigan,86.90562709224706
+Columbia University,University of Florida,82.53373350308391
+Carnegie Mellon University,Duke University,119.54154031668908
+Carnegie Mellon University,New York University,113.11418228919348
+Carnegie Mellon University,University of North Carolina at Chapel Hill,107.76548256477012
+Carnegie Mellon University,Tsinghua University,102.65225831383407
+Carnegie Mellon University,University of Pennsylvania,100.13626840287846
+Indiana University,University of California,80.99075353165841
+Indiana University,Tsinghua University,76.93471624209116
+Indiana University,Rutgers University,71.45366803927342
+Indiana University,University of Southern California,68.29562396148654
+Indiana University,University of British Columbia,68.2032646807155
+University of Arizona,Karlsruhe Institute of Technology,54.20437689261482
+University of Arizona,University of Pennsylvania,53.492621209253116
+University of Arizona,University of Minnesota,51.26663578212704
+University of Arizona,Heidelberg University,51.16744141566811
+University of Arizona,Iowa State University,47.2077957980343
+Georgia Institute of Technology,Columbia University,72.13314996677539
+Georgia Institute of Technology,Carnegie Mellon University,71.37241419545191
+Georgia Institute of Technology,University of Washington,66.01246475593429
+Georgia Institute of Technology,Tsinghua University,64.60285713714374
+Georgia Institute of Technology,Indiana University,64.11337369262954
+National Institutes of Health,Tsinghua University,129.207422108153
+National Institutes of Health,University of North Carolina at Chapel Hill,113.94399864584247
+National Institutes of Health,Iowa State University,110.51660109616824
+National Institutes of Health,University of Illinois at Urbana–Champaign,93.70142290445138
+National Institutes of Health,Duke University,92.88710911203526
+University of Miami,University of Southern California,46.28890385790877
+University of Miami,Princeton University,45.52942071956091
+University of Miami,University of Michigan,44.91410209951908
+University of Miami,Yale University,43.739357888477635
+University of Miami,University of Queensland,42.1072527365375
+University of Zurich,Heidelberg University,42.83396517988725
+University of Zurich,Karlsruhe Institute of Technology,40.87818233429432
+University of Zurich,University of Chicago,39.85944051622411
+University of Zurich,University of Arizona,36.919099528584496
+University of Zurich,University of Hamburg,33.754045446454846
+University of Colorado Boulder,University of Manchester,31.85771121620481
+University of Colorado Boulder,Harvard University,29.46743970145124
+University of Colorado Boulder,University of Queensland,29.385825207876195
+University of Colorado Boulder,Cornell University,28.14792331647686
+University of Colorado Boulder,University of Alberta,28.0270401271735
+University of Cologne,Boston University,16.982934400551937
+University of Cologne,University of Florence,13.149621568111542
+University of Cologne,Sapienza University of Rome,13.019472245019758
+University of Cologne,Martin Luther University of Halle-Wittenberg,12.239984830779479
+University of Cologne,Dresden University of Technology,12.224950164151908
+Kyoto University,Tohoku University,55.564110337459034
+Kyoto University,University of Texas at Austin,54.776102650397696
+Kyoto University,University of Pennsylvania,54.07158256491701
+Kyoto University,Harvard University,53.16835674984481
+Kyoto University,University of Alberta,51.07541007861087
+Tohoku University,Osaka University,55.96440816063336
+Tohoku University,Kyoto University,55.564110337459034
+Tohoku University,Michigan State University,42.78928143459359
+Tohoku University,University of Texas at Austin,42.586925057748935
+Tohoku University,Indiana University,41.67128568256238
+Free University of Berlin,University of Toronto,34.745987409278534
+Free University of Berlin,University of New South Wales,33.59178760574582
+Free University of Berlin,Cornell University,32.233893650147465
+Free University of Berlin,University of Stuttgart,31.41179086658975
+Free University of Berlin,University of Rochester,30.008057527571083
+Texas A&M University,University of Southern California,88.19787476712698
+Texas A&M University,Tsinghua University,81.39725931700426
+Texas A&M University,National University of Singapore,80.24837126804081
+Texas A&M University,Duke University,74.67843013810267
+Texas A&M University,Columbia University,74.56419854510273
+Case Western Reserve University,Tsinghua University,89.30617177312865
+Case Western Reserve University,University of Alberta,86.29782489756897
+Case Western Reserve University,University of Massachusetts Amherst,79.15301298188973
+Case Western Reserve University,University of Michigan,75.99343944589741
+Case Western Reserve University,Ohio State University,74.71101865556498
+Harvard University,University of Massachusetts Amherst,100.8166696711222
+Harvard University,University of Alberta,92.35341140736999
+Harvard University,Stanford University,85.4326309848527
+Harvard University,Tsinghua University,78.51632267469907
+Harvard University,Carnegie Mellon University,75.56462253134463
+University of Sydney,University of Illinois at Urbana–Champaign,93.94366882262574
+University of Sydney,University of Michigan,89.75376971219293
+University of Sydney,Tsinghua University,88.4942509939474
+University of Sydney,Columbia University,78.1215906155354
+University of Sydney,University of Southern California,75.61615256910628
+University of Michigan,University of Southern California,216.4503325734099
+University of Michigan,Tsinghua University,170.57370601247794
+University of Michigan,University of Illinois at Urbana–Champaign,149.5832255765016
+University of Michigan,University of North Carolina at Chapel Hill,118.75183695325515
+University of Michigan,National University of Singapore,103.64343196966259
+Princeton University,University of Tokyo,106.34451299856904
+Princeton University,Yale University,64.3061517918951
+Princeton University,Harvard University,60.18227839277592
+Princeton University,University of Cambridge,52.055842887964275
+Princeton University,University of Miami,45.52942071956091
+University of Tokyo,Princeton University,106.34451299856904
+University of Tokyo,Yale University,52.30327396760147
+University of Tokyo,Kyoto University,45.68204026969856
+University of Tokyo,Harvard University,44.85468722657686
+University of Tokyo,University of Cambridge,41.9633322817122
+University of Paris,University of Utah,40.658066046771054
+University of Paris,University of California,25.98667210346971
+University of Paris,Texas A&M University,25.020753856207648
+University of Paris,University of Milan,24.78137863660393
+University of Paris,University of Bonn,23.940959493072036
+University of Nebraska–Lincoln,University of Illinois at Urbana–Champaign,116.13777787966067
+University of Nebraska–Lincoln,Tsinghua University,93.0294771266747
+University of Nebraska–Lincoln,National University of Singapore,81.61968529719736
+University of Nebraska–Lincoln,University of Michigan,80.24732106523004
+University of Nebraska–Lincoln,University of Pittsburgh,77.4545592387267
+Delft University of Technology,University of Southern California,81.76732291875364
+Delft University of Technology,Columbia University,76.89344195452719
+Delft University of Technology,University of Illinois at Urbana–Champaign,74.453385016725
+Delft University of Technology,Tsinghua University,72.64916742393913
+Delft University of Technology,University of Manchester,68.14095194881817
+Michigan State University,University of Pennsylvania,77.20346499380682
+Michigan State University,Ohio State University,76.72713279940464
+Michigan State University,Iowa State University,68.71076092171444
+Michigan State University,University of North Carolina at Chapel Hill,66.51162549274578
+Michigan State University,Carnegie Mellon University,64.16090774976604
+University of Kentucky,Tsinghua University,86.81019606515598
+University of Kentucky,University of Pennsylvania,86.61272434919422
+University of Kentucky,University of Michigan,84.2534158502468
+University of Kentucky,Iowa State University,82.35138069591345
+University of Kentucky,University of North Carolina at Chapel Hill,80.52753837815864
+University of Utah,Columbia University,56.51067932942364
+University of Utah,University of Southern California,53.72690090502416
+University of Utah,Texas A&M University,51.22086980110173
+University of Utah,University of Michigan,48.922204746348626
+University of Utah,Cornell University,48.62539706490519
+Boston University,University of California,39.71169195718173
+Boston University,Sapienza University of Rome,39.454092864132065
+Boston University,University of Florence,32.89708640353379
+Boston University,University of Sydney,32.73464338434864
+Boston University,Martin Luther University of Halle-Wittenberg,28.475432199604814
+Pennsylvania State University,University of Rochester,30.056251961360054
+Pennsylvania State University,University of Tennessee,25.22556690099254
+Pennsylvania State University,University of Southampton,23.68178351782289
+Pennsylvania State University,Washington University in St. Louis,23.67597105520839
+Pennsylvania State University,University of Nebraska–Lincoln,23.536816831900655
+Hebrew University of Jerusalem,University of California,18.74845576874142
+Hebrew University of Jerusalem,Ohio State University,18.58294842186324
+Hebrew University of Jerusalem,University of Illinois at Urbana–Champaign,18.278586582589895
+Hebrew University of Jerusalem,University of Florida,16.445502106832528
+Hebrew University of Jerusalem,Case Western Reserve University,16.3680403199
+University of Amsterdam,Purdue University,16.194897835732554
+University of Amsterdam,University of Bologna,15.337972712353272
+University of Amsterdam,Harvard University,13.888907033922987
+University of Amsterdam,University of Illinois at Chicago,12.720882711412868
+University of Amsterdam,University of Massachusetts Amherst,12.712532402324763
+University of Illinois at Chicago,Tsinghua University,104.54423307253832
+University of Illinois at Chicago,National University of Singapore,82.0038537561027
+University of Illinois at Chicago,University of Southern California,81.15415388968229
+University of Illinois at Chicago,University of Illinois at Urbana–Champaign,79.89178254131869
+University of Illinois at Chicago,University of North Carolina at Chapel Hill,77.93179749561635
+University of Vienna,Tel Aviv University,24.109668657420375
+University of Vienna,Technical University of Berlin,23.320775542084803
+University of Vienna,University of Wisconsin-Madison,21.880259069155187
+University of Vienna,Indiana University,21.68500952283454
+University of Vienna,University of Milan,20.433375142557896
+Heidelberg University,University of Arizona,51.16744141566811
+Heidelberg University,University of Zurich,42.83396517988725
+Heidelberg University,Karlsruhe Institute of Technology,41.47832102386187
+Heidelberg University,University of Chicago,39.420623087215944
+Heidelberg University,Kyoto University,38.529919044782226
+University of Pittsburgh,Tsinghua University,95.97955269349328
+University of Pittsburgh,University of Illinois at Urbana–Champaign,95.3910173070171
+University of Pittsburgh,University of Nebraska–Lincoln,77.4545592387267
+University of Pittsburgh,University of Alberta,75.26680622163072
+University of Pittsburgh,National University of Singapore,66.78456618594703
+University of Toronto,Cornell University,75.32169583844119
+University of Toronto,University of New South Wales,70.10243477491404
+University of Toronto,Tsinghua University,62.69498600637796
+University of Toronto,University of British Columbia,58.613850082310364
+University of Toronto,University of Alberta,57.76598536847482
+University of Pennsylvania,University of North Carolina at Chapel Hill,126.04382588625087
+University of Pennsylvania,University of Wisconsin-Madison,115.2277933414596
+University of Pennsylvania,Iowa State University,104.83447399290316
+University of Pennsylvania,Carnegie Mellon University,100.13626840287846
+University of Pennsylvania,University of British Columbia,91.38221701222362
+University of Hamburg,University of Texas at Austin,42.41351007669314
+University of Hamburg,University of Pennsylvania,42.092804116827516
+University of Hamburg,University of Chicago,41.962466241402744
+University of Hamburg,University of Minnesota,41.58782789162443
+University of Hamburg,Stanford University,41.15019995981106
+University of Illinois at Urbana–Champaign,Tsinghua University,229.4230298674409
+University of Illinois at Urbana–Champaign,University of Southern California,167.2353452084364
+University of Illinois at Urbana–Champaign,University of Michigan,149.5832255765016
+University of Illinois at Urbana–Champaign,National University of Singapore,136.67929153036636
+University of Illinois at Urbana–Champaign,University of Nebraska–Lincoln,116.13777787966067
+Utrecht University,University of Toronto,44.66760819744646
+Utrecht University,University of Oxford,40.2653985459815
+Utrecht University,Harvard University,38.55676117336735
+Utrecht University,Cornell University,35.70351565658278
+Utrecht University,University of Michigan,34.627828709122724
+University of Virginia,Tsinghua University,66.2709581322564
+University of Virginia,University of Illinois at Urbana–Champaign,62.0679131813735
+University of Virginia,University of Southern California,59.65758868722958
+University of Virginia,University of Manchester,58.431047320993656
+University of Virginia,University of Florida,56.90029952306533
+University of Birmingham,University of Illinois at Urbana–Champaign,67.78232607510897
+University of Birmingham,Tsinghua University,59.581955467254055
+University of Birmingham,University of Queensland,57.657249822961994
+University of Birmingham,University of Southern California,55.091431996181186
+University of Birmingham,University of Illinois at Chicago,49.38254737283552
+Dresden University of Technology,University of São Paulo,23.105316800055174
+Dresden University of Technology,Sapienza University of Rome,21.864549353172833
+Dresden University of Technology,Boston University,21.700275046527178
+Dresden University of Technology,University of Stuttgart,21.353660236385178
+Dresden University of Technology,University of California,20.621324179560762
+Washington University in St. Louis,Johns Hopkins University,26.09354009948383
+Washington University in St. Louis,University of Washington,25.109969836612454
+Washington University in St. Louis,Pennsylvania State University,23.67597105520839
+Washington University in St. Louis,University of Rochester,20.097596151053473
+Washington University in St. Louis,Harvard University,19.932449196072664
+Tsinghua University,University of Southern California,229.85076192203945
+Tsinghua University,University of Illinois at Urbana–Champaign,229.4230298674409
+Tsinghua University,Iowa State University,229.16199155829364
+Tsinghua University,University of North Carolina at Chapel Hill,223.84372395010877
+Tsinghua University,University of Michigan,170.57370601247794
+Northwestern University,University of North Carolina at Chapel Hill,111.50375396360236
+Northwestern University,Iowa State University,108.24458117443523
+Northwestern University,Tsinghua University,107.89403605503254
+Northwestern University,University of Southern California,96.59109252710122
+Northwestern University,University of Alberta,95.46682594269299
+University of Massachusetts Amherst,Harvard University,100.8166696711222
+University of Massachusetts Amherst,University of Alberta,100.10224324341617
+University of Massachusetts Amherst,New York University,91.11636510123301
+University of Massachusetts Amherst,University of Texas at Austin,85.33529846627896
+University of Massachusetts Amherst,Tsinghua University,82.93030713329428
+University of Minnesota,University of Texas at Austin,75.54268517886999
+University of Minnesota,Iowa State University,72.84466540725367
+University of Minnesota,New York University,66.03121029018894
+University of Minnesota,University of Pennsylvania,65.54107268620953
+University of Minnesota,University of North Carolina at Chapel Hill,63.464150501030375
+Massachusetts Institute of Technology,Harvard University,12.761941188192974
+Massachusetts Institute of Technology,Rutgers University,12.492284198885686
+Massachusetts Institute of Technology,University of Wisconsin-Madison,12.121444943806269
+Massachusetts Institute of Technology,University of Pennsylvania,12.033239236819535
+Massachusetts Institute of Technology,University of North Carolina at Chapel Hill,11.584287499234065
+Goethe University Frankfurt,Tohoku University,18.108781491609008
+Goethe University Frankfurt,Kyoto University,15.672280900764733
+Goethe University Frankfurt,Osaka University,15.010492118477597
+Goethe University Frankfurt,University of Hamburg,14.918445056253603
+Goethe University Frankfurt,New York University,14.028643900875661
+Yale University,Princeton University,64.3061517918951
+Yale University,North Carolina State University,61.05821418114798
+Yale University,University of Cambridge,58.07477793509685
+Yale University,Harvard University,57.2619719906366
+Yale University,University of Tokyo,52.30327396760147
+University College London,Tsinghua University,69.32821767742807
+University College London,University of Illinois at Urbana–Champaign,66.57205756883148
+University College London,University of Manchester,64.3951190154213
+University College London,University of Sydney,64.3797141449349
+University College London,Duke University,61.32940055191735
+University of Iowa,Tsinghua University,90.29908431798891
+University of Iowa,University of North Carolina at Chapel Hill,87.21718028673656
+University of Iowa,Duke University,75.36078277260535
+University of Iowa,Iowa State University,74.40869896259416
+University of Iowa,University of Southern California,72.05255378292277
+Duke University,Tsinghua University,131.3804306124728
+Duke University,Carnegie Mellon University,119.54154031668908
+Duke University,University of Southern California,107.88951601469734
+Duke University,University of North Carolina at Chapel Hill,100.79015200757127
+Duke University,National Institutes of Health,92.88710911203526
+Stanford University,Carnegie Mellon University,96.81586113531915
+Stanford University,University of Alberta,91.59962846662403
+Stanford University,Harvard University,85.4326309848527
+Stanford University,Ohio State University,83.40460306618307
+Stanford University,University of Massachusetts Amherst,82.8843116992326
+Technical University of Berlin,University of Utah,30.94730420641228
+Technical University of Berlin,Indiana University,28.304340674392076
+Technical University of Berlin,Texas A&M University,27.709809964705048
+Technical University of Berlin,University of Bologna,25.247271584240224
+Technical University of Berlin,University of California,25.093672771693075
+Ohio State University,Tsinghua University,109.97966998793343
+Ohio State University,University of North Carolina at Chapel Hill,100.56834781066816
+Ohio State University,Iowa State University,100.14238194960735
+Ohio State University,University of Alberta,96.05491913337559
+Ohio State University,Carnegie Mellon University,94.48950217380364
+University of Washington,Carnegie Mellon University,77.90277739825562
+University of Washington,Johns Hopkins University,74.96608297152015
+University of Washington,University of North Carolina at Chapel Hill,67.73219635517991
+University of Washington,University of Southern California,67.18913840759312
+University of Washington,Texas A&M University,66.07145002459477
+University of Bonn,University of California,35.57836978693039
+University of Bonn,University of Minnesota,29.067932856917825
+University of Bonn,Tel Aviv University,27.420445531845942
+University of Bonn,Indiana University,27.12280305323982
+University of Bonn,Texas A&M University,26.952698540044327
+Gunadarma University,RWTH Aachen University,6.73636426206297
+Gunadarma University,University of Stuttgart,6.424759693470933
+Gunadarma University,Vanderbilt University,6.186069773801658
+Gunadarma University,Indiana University,6.139940983518791
+Gunadarma University,University of Toronto,6.105433199564987
+University of São Paulo,University of California,30.66496560583438
+University of São Paulo,University of Liège,30.08295648927257
+University of São Paulo,University College London,29.084107603277484
+University of São Paulo,Johns Hopkins University,26.71917709101488
+University of São Paulo,Columbia University,26.43853606704496
+University of Chicago,University of Minnesota,52.65884594942253
+University of Chicago,University of Texas at Austin,52.28935032930194
+University of Chicago,Kyoto University,49.474317261139255
+University of Chicago,Karlsruhe Institute of Technology,47.21090634616087
+University of Chicago,University of Pennsylvania,42.629796966413934
+New York University,University of North Carolina at Chapel Hill,138.2067224500022
+New York University,Iowa State University,124.18820593086085
+New York University,University of Alberta,117.7802413542461
+New York University,Carnegie Mellon University,113.11418228919348
+New York University,University of Texas at Austin,111.60100226366876
+University of Queensland,National University of Singapore,101.30214747101908
+University of Queensland,University of Southern California,98.71110605920029
+University of Queensland,University of Illinois at Urbana–Champaign,95.48419044816693
+University of Queensland,University of Michigan,93.87334574944938
+University of Queensland,Tsinghua University,89.80309528657683
+Tel Aviv University,University of Wisconsin-Madison,52.78677083633299
+Tel Aviv University,Indiana University,52.77180803311142
+Tel Aviv University,University of Pennsylvania,52.477626632341014
+Tel Aviv University,University of California,46.0149803217244
+Tel Aviv University,University of North Carolina at Chapel Hill,44.07727451884037
+University of Alberta,Tsinghua University,145.67251242279815
+University of Alberta,Iowa State University,132.89663661492474
+University of Alberta,University of North Carolina at Chapel Hill,130.85590360363776
+University of Alberta,New York University,117.7802413542461
+University of Alberta,University of Southern California,106.94926217306417
+North Carolina State University,Tsinghua University,117.521678491582
+North Carolina State University,University of Southern California,109.74543998727013
+North Carolina State University,University of Illinois at Urbana–Champaign,93.0538749380323
+North Carolina State University,National University of Singapore,91.22525776732061
+North Carolina State University,University of Michigan,91.01064187325395
+University of Liège,University of Oxford,31.089802026268384
+University of Liège,University of Wisconsin-Madison,30.856708520278293
+University of Liège,University of Pennsylvania,30.436475185441427
+University of Liège,University of São Paulo,30.08295648927257
+University of Liège,University of Kentucky,28.882101066353066
+University of British Columbia,Tsinghua University,123.29350376452821
+University of British Columbia,University of North Carolina at Chapel Hill,93.72009455790217
+University of British Columbia,Iowa State University,92.74291567082045
+University of British Columbia,University of Pennsylvania,91.38221701222362
+University of British Columbia,University of Southern California,71.99980293522383
+Moscow State University,University of Milan,22.08029297175358
+Moscow State University,University of Bologna,20.92445096906447
+Moscow State University,Tel Aviv University,20.295575071322943
+Moscow State University,Indiana University,19.415448273157075
+Moscow State University,University of Erlangen-Nuremberg,18.846459522833204
+University of Bologna,University of California,55.062801136407856
+University of Bologna,Indiana University,50.40062778635214
+University of Bologna,Ludwig Maximilian University of Munich,50.08414874897426
+University of Bologna,Harvard University,47.051878738833324
+University of Bologna,University of Cambridge,40.561574919341346
